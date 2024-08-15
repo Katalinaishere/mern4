@@ -3,7 +3,7 @@ import TableProps from "./TableProps";
 
 const TableContent = () => {
     const lektorData = [
-      { lektorName: 'John Doe', courseName: 'Maths', credits: 4 },
+      { lektorName: 'John Smith', courseName: 'Maths', credits: 4 },
       { lektorName: 'Jane Smith', courseName: 'Physics', credits: 3 },
       { lektorName: 'Alan Brown', courseName: 'Chemistry', credits: 4 },
       { lektorName: 'Emily White', courseName: 'Biology', credits: 3 },
